@@ -1,2 +1,2 @@
 # hugoplate-main
-OkanFit Website create with hugoplate
+OkanFit Website Repository using hugoplate
